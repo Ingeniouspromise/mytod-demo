@@ -1,0 +1,3 @@
+rootProject.name = 'mytod'
+
+include ':app'
